@@ -1,6 +1,9 @@
 # mel-log spectrum
  
 The function that extracts features of voice data by mel-log spectrum.
+
+The definition of me-log spectrum is from the next paper
+Deep Learning for Audio Signal Processing: https://arxiv.org/abs/1905.00078
  
 # DEMO
  
@@ -16,7 +19,7 @@ The accuracy was about `93.1%` when the dataset of audio sample was as follows a
 * Link: https://github.com/Jakobovski/free-spoken-digit-dataset
 
 Please refer to the following repository for the above results.
-* Link: https://github.com/OkamotoDaiki/MFCC_linearSVM_TEST (入れ替える)
+* Link: https://github.com/OkamotoDaiki/mel-log-spec_DeepLearning_TEST
 
 # Features
 

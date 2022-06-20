@@ -2,8 +2,8 @@
  
 The function that extracts features of voice data by mel-log spectrum.
 
-The definition of me-log spectrum is from the next paper
-Deep Learning for Audio Signal Processing: https://arxiv.org/abs/1905.00078
+The definition of me-log spectrum is from the next paper. <br>
+* Deep Learning for Audio Signal Processing: https://arxiv.org/abs/1905.00078
  
 # DEMO
  

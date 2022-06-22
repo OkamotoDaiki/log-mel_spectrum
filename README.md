@@ -1,13 +1,13 @@
-# mel-log spectrum
+# log-mel spectrum
  
-The function that extracts features of voice data by mel-log spectrum.
+The function that extracts features of voice data by log-mel spectrum.
 
-The definition of mel-log spectrum is from the next paper. <br>
+The definition of log-mel spectrum is from the next paper. <br>
 * Deep Learning for Audio Signal Processing: https://arxiv.org/abs/1905.00078
  
 # DEMO
  
-This repository contains the generation of feature with mel-log spectrum. Comparing the mel-log spectrum with the logarithmic spectrum is as follows. The Mel scale emphasizes low frequencies.
+This repository contains the generation of feature with log-mel spectrum. Comparing the log-mel spectrum with the logarithmic spectrum is as follows. The Mel scale emphasizes low frequencies.
 
 ![comparison_mel_Hz](https://user-images.githubusercontent.com/49944765/174479503-bb3fed4e-7dad-4839-a29a-db3f3b0d7ed4.png)
 
@@ -19,7 +19,7 @@ The accuracy was about `93.1%` when the dataset of audio sample was as follows a
 * Link: https://github.com/Jakobovski/free-spoken-digit-dataset
 
 Please refer to the following repository for the above results.
-* Link: https://github.com/OkamotoDaiki/mel-log-spec_DeepLearning_TEST
+* Link: https://github.com/OkamotoDaiki/log-mel-spec_DeepLearning_TEST
 
 # Features
 

@@ -1,6 +1,6 @@
 import soundfile
-import mellogspec
+import logmelspec
 
 fname = 'recordings/0_jackson_0.wav' #any wav file.
 data, fs = soundfile.read(fname)
-mellogspec_array, mel_scale = mellogspec.get_mellogspec(data, fs)
+logmelspec_array, mel_scale = logmelspec.get_logmelspec(data, fs)

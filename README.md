@@ -5,6 +5,8 @@ The function that extracts features of voice data by log-mel spectrum.
 The definition of log-mel spectrum is from the next paper. <br>
 * Deep Learning for Audio Signal Processing: https://arxiv.org/abs/1905.00078
  
+Commentary article[JP]:https://qiita.com/Oka_D/items/9afd11e501a1c540bc1b 
+
 # DEMO
  
 This repository contains the generation of feature with log-mel spectrum. Comparing the log-mel spectrum with the logarithmic spectrum is as follows. The Mel scale emphasizes low frequencies.
